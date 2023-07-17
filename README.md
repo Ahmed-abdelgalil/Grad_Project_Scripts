@@ -1,6 +1,7 @@
 # Grad_Project_Scripts
 ## Descripion 
-These scripts made while working on my graduation project to help me finsih some tasks with dataset faster 
+These scripts made while working on my graduation project to help me finsih some tasks with dataset faster.
+
 Check project here [Weapon Detection Project](https://github.com/UDJAT74/Security_Dtection)
 
 #### Change_class_num
